@@ -37,3 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ![Screen Shot 2024-02-07 at 12 10 37 AM](https://github.com/ponnuru/sample-next-app/assets/5709757/a77e4e19-e92f-4377-9e65-2490f49f1981)
 ![Screen Shot 2024-02-07 at 12 10 47 AM](https://github.com/ponnuru/sample-next-app/assets/5709757/c346df52-4ea9-4068-b467-2633196239dd)
 ![Screen Shot 2024-02-07 at 12 10 58 AM](https://github.com/ponnuru/sample-next-app/assets/5709757/9848108b-1a45-47b8-8f60-29b43984ec72)
+<img width="1218" alt="Screen Shot 2024-02-13 at 8 00 53 PM" src="https://github.com/ponnuru/sample-next-app/assets/5709757/58219a7c-9d9f-446c-a99a-8cd665841460">
